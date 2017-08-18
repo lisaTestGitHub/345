@@ -36,7 +36,7 @@
 
 /* Begin PBXFileReference section */
 		72BC66291F3E5E06002B40FD /* gam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gam.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		72BC662C1F3E5E06002B40FD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		72BC662C1F3E5E06002B40FD /* LisaAppDelete.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LisaAppDelete.h; sourceTree = "<group>"; };
 		72BC662D1F3E5E06002B40FD /* LisaAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LisaAppDelegate.m; sourceTree = "<group>"; };
 		72BC662F1F3E5E06002B40FD /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		72BC66311F3E5E06002B40FD /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
@@ -101,7 +101,7 @@
 		72BC662B1F3E5E06002B40FD /* gam */ = {
 			isa = PBXGroup;
 			children = (
-				72BC662C1F3E5E06002B40FD /* AppDelegate.h */,
+				72BC662C1F3E5E06002B40FD /* LisaAppDelete.h */,
 				72BC662D1F3E5E06002B40FD /* LisaAppDelegate.m */,
 				72BC662F1F3E5E06002B40FD /* art.scnassets */,
 				72BC66311F3E5E06002B40FD /* GameViewController.h */,
