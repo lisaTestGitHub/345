@@ -39,7 +39,7 @@
 		72BC662C1F3E5E06002B40FD /* LisaAppDelete.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LisaAppDelete.h; sourceTree = "<group>"; };
 		72BC662D1F3E5E06002B40FD /* LisaAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LisaAppDelegate.m; sourceTree = "<group>"; };
 		72BC662F1F3E5E06002B40FD /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
-		72BC66311F3E5E06002B40FD /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
+		72BC66311F3E5E06002B40FD /* TestGameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestGameViewController.h; sourceTree = "<group>"; };
 		72BC66321F3E5E06002B40FD /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
 		72BC66351F3E5E06002B40FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		72BC66371F3E5E06002B40FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -104,7 +104,7 @@
 				72BC662C1F3E5E06002B40FD /* LisaAppDelete.h */,
 				72BC662D1F3E5E06002B40FD /* LisaAppDelegate.m */,
 				72BC662F1F3E5E06002B40FD /* art.scnassets */,
-				72BC66311F3E5E06002B40FD /* GameViewController.h */,
+				72BC66311F3E5E06002B40FD /* TestGameViewController.h */,
 				72BC66321F3E5E06002B40FD /* GameViewController.m */,
 				72BC66341F3E5E06002B40FD /* Main.storyboard */,
 				72BC66371F3E5E06002B40FD /* Assets.xcassets */,
