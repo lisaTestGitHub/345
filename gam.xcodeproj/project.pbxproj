@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		72BC662E1F3E5E06002B40FD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 72BC662D1F3E5E06002B40FD /* AppDelegate.m */; };
+		72BC662E1F3E5E06002B40FD /* LisaAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 72BC662D1F3E5E06002B40FD /* LisaAppDelegate.m */; };
 		72BC66301F3E5E06002B40FD /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 72BC662F1F3E5E06002B40FD /* art.scnassets */; };
 		72BC66331F3E5E06002B40FD /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72BC66321F3E5E06002B40FD /* GameViewController.m */; };
 		72BC66361F3E5E06002B40FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72BC66341F3E5E06002B40FD /* Main.storyboard */; };
@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		72BC66291F3E5E06002B40FD /* gam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72BC662C1F3E5E06002B40FD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		72BC662D1F3E5E06002B40FD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		72BC662D1F3E5E06002B40FD /* LisaAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LisaAppDelegate.m; sourceTree = "<group>"; };
 		72BC662F1F3E5E06002B40FD /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		72BC66311F3E5E06002B40FD /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
 		72BC66321F3E5E06002B40FD /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				72BC662C1F3E5E06002B40FD /* AppDelegate.h */,
-				72BC662D1F3E5E06002B40FD /* AppDelegate.m */,
+				72BC662D1F3E5E06002B40FD /* LisaAppDelegate.m */,
 				72BC662F1F3E5E06002B40FD /* art.scnassets */,
 				72BC66311F3E5E06002B40FD /* GameViewController.h */,
 				72BC66321F3E5E06002B40FD /* GameViewController.m */,
@@ -267,7 +267,7 @@
 			files = (
 				72BC66331F3E5E06002B40FD /* GameViewController.m in Sources */,
 				72BC663B1F3E5E06002B40FD /* main.m in Sources */,
-				72BC662E1F3E5E06002B40FD /* AppDelegate.m in Sources */,
+				72BC662E1F3E5E06002B40FD /* LisaAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
